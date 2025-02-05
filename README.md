@@ -19,6 +19,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sharankmr&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
+### ✍️ Quote
+| **"Be one percent better than yesterday"** |
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sharankmr&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
