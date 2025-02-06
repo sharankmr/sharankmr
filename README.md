@@ -1,8 +1,5 @@
 ## Hi there I am SK👋
 
-# Certifications
-[![Credly Badge](https://images.credly.com/size/150x270/images/bd3c7ffd-53d6-4bbf-ac0e-054b897b9b61/badge.png)](https://www.credly.com/badges/bd3c7ffd-53d6-4bbf-ac0e-054b897b9b61)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
@@ -11,6 +8,9 @@
 
 # 💫 About Me:
 🌱 I’m currently learning DSA<br>👨🏼‍💻 working as a Consultant since 2022 in CDW<br>😄 Pronouns: Developer
+
+# Certifications
+![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/hashicorp-certified-terraform-associate-003.png) ![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/microsoft-certified-azure-fundamentals.png) ![Alt Text](https://github.com/sharankmr/sharankmr/blob/main/assets/aws-certified-cloud-practitioner.png) ![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/aws-certified-solutions-architect-associate.png) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
