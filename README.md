@@ -1,5 +1,8 @@
 ## Hi there I am SK👋
 
+# Certifications
+[![Credly Badge](https://images.credly.com/size/150x270/images/bd3c7ffd-53d6-4bbf-ac0e-054b897b9b61/badge.png)](https://www.credly.com/badges/bd3c7ffd-53d6-4bbf-ac0e-054b897b9b61)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
