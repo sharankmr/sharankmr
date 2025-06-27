@@ -7,7 +7,7 @@
 </picture>
 
 # 💫 About Me:
-🌱 I’m currently learning DSA<br>👨🏼‍💻 working as a Consultant since 2022 in CDW<br>😄 Pronouns: Developer
+🌱 I’m currently learning <br>👨🏼‍💻 working as a Consultant since 2022 in CDW<br>😄 Pronouns: Developer
 
 # Certifications
 ![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/hashicorp-certified-terraform-associate-003.png) ![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/microsoft-certified-azure-fundamentals.png) ![Alt Text](https://github.com/sharankmr/sharankmr/blob/main/assets/aws-certified-cloud-practitioner.png) ![Alt](https://github.com/sharankmr/sharankmr/blob/main/assets/aws-certified-solutions-architect-associate.png) 
