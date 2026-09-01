@@ -1,9 +1,9 @@
 ## Hi there I'm Sharan🥷
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharankmr/sharankmr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharankmr/sharankmr/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sharankmr/sharankmr/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/snake-decoration-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/snake-decoration.svg" />
+  <img alt="snake decoration" src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/snake-decoration.svg" />
 </picture>
 
 # 💫 About Me:
