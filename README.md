@@ -11,11 +11,14 @@
 
 # 🏅 Certifications:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/aws-certified-ai-practitioner%20(3).png" height="95" alt="AWS Certified AI Practitioner" />
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/microsoft-certified-azure-fundamentals.png" height="95" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
+  <img src="https://images.credly.com/images/a6387cbd-5ac1-4894-833a-da2cbc28587e/blob" height="100" alt="Anthropic — Claude Certified Associate, Foundations (2026)" title="Anthropic — Claude Certified Associate, Foundations (2026)" />
+  <img src="https://images.credly.com/size/340x340/images/3d924691-436a-4fb6-b19b-1005ccbb6135/blob" height="100" alt="NVIDIA-Certified Associate: AI Infrastructure and Operations (2026)" title="NVIDIA-Certified Associate: AI Infrastructure and Operations (2026)" />
+  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/aws-certified-ai-practitioner%20(3).png" height="100" alt="AWS Certified AI Practitioner (2025)" title="AWS Certified AI Practitioner (2025)" />
+  <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" height="100" alt="Microsoft Certified: Azure AI Fundamentals, AI-900 (2025)" title="Microsoft Certified: Azure AI Fundamentals, AI-900 (2025)" />
+  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/microsoft-certified-azure-fundamentals.png" height="100" alt="Microsoft Certified: Azure Fundamentals, AZ-900 (2022)" title="Microsoft Certified: Azure Fundamentals, AZ-900 (2022)" />
 </p>
 
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Associate%2C%20Foundations%20(2026)-D97757?style=plastic&logo=anthropic&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Associate%3A%20AI%20Infrastructure%20%26%20Operations%20(2026)-76B900?style=plastic&logo=nvidia&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Well--Architected%20(2023)-FF9900?style=plastic&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%2C%20AI--900%20(2025)-0078D4?style=plastic&logo=microsoftazure&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20%26%20Java%20(Basic)%20(2021)-2EC866?style=plastic&logo=hackerrank&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Well--Architected%20(2023)-FF9900?style=plastic&logo=amazonwebservices&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20%26%20Java%20(Basic)%20(2021)-2EC866?style=plastic&logo=hackerrank&logoColor=white)
 
 # 💻 Tech Stack:
 
