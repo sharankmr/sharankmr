@@ -12,13 +12,10 @@
 # 🏅 Certifications:
 <p align="left">
   <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/aws-certified-ai-practitioner%20(3).png" height="95" alt="AWS Certified AI Practitioner" />
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/aws-certified-solutions-architect-associate.png" height="95" alt="AWS Certified Solutions Architect – Associate" />
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/aws-certified-cloud-practitioner.png" height="95" alt="AWS Certified Cloud Practitioner" />
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/hashicorp-certified-terraform-associate-003.png" height="95" alt="HashiCorp Certified Terraform Associate" />
-  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/microsoft-certified-azure-fundamentals.png" height="95" alt="Microsoft Certified Azure Fundamentals" />
+  <img src="https://raw.githubusercontent.com/sharankmr/sharankmr/main/assets/microsoft-certified-azure-fundamentals.png" height="95" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" />
 </p>
 
-![Anthropic](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Associate%2C%20Foundations-D97757?style=plastic&logo=anthropic&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Associate%3A%20AI%20Infrastructure%20%26%20Operations-76B900?style=plastic&logo=nvidia&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Well--Architected-FF9900?style=plastic&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=plastic&logo=microsoftazure&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-Claude%20Certified%20Associate%2C%20Foundations%20(2026)-D97757?style=plastic&logo=anthropic&logoColor=white) ![NVIDIA](https://img.shields.io/badge/NVIDIA-Certified%20Associate%3A%20AI%20Infrastructure%20%26%20Operations%20(2026)-76B900?style=plastic&logo=nvidia&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-Well--Architected%20(2023)-FF9900?style=plastic&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%2C%20AI--900%20(2025)-0078D4?style=plastic&logo=microsoftazure&logoColor=white) ![HackerRank](https://img.shields.io/badge/HackerRank-SQL%20%26%20Java%20(Basic)%20(2021)-2EC866?style=plastic&logo=hackerrank&logoColor=white)
 
 # 💻 Tech Stack:
 
